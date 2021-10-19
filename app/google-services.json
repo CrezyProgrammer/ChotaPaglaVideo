@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378923221420",
+    "project_id": "pegal--beta",
+    "storage_bucket": "pegal--beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378923221420:android:1659af38d082256b4f3a09",
+        "android_client_info": {
+          "package_name": "com.pagalbeta.cartoonvideos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378923221420-29hgrl6shko9csdet5ovngiv813qdbsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS-kIJRC52vYgbXFKsw9k5zTCHkLv7a7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378923221420-29hgrl6shko9csdet5ovngiv813qdbsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

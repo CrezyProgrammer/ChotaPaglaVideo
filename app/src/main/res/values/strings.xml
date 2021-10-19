@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Paagal beta comedy</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="developer_name">develoepr name</string>
+    <string name="bannar">YOUR_PLACEMENT_ID</string>
+    <string name="device_id">34da36bb-198d-4288-95e9-0050d624e025</string>
+    <string name="sponsored">Sponsored</string>
+    <string name="native_ad">YOUR_PLACEMENT_ID</string>
+    <string name="interstital">YOUR_PLACEMENT_ID</string>
+    <string name="native_placement_id">2143555465960810_2145707915745565</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
